@@ -1,0 +1,10 @@
+{
+  "id": 112893183,
+  "created_at": "2026-02-27T14:00:36.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["TernTables", "universe"]
+}
